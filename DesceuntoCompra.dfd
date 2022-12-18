@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+compra
+1
+0
+3
+des
+1
+0
+4
+pago
+1
+0
+4
+1
+31
+'Ingrese el monto de la compra'
+5
+1
+6
+compra
+7
+0
+1
+14
+compra >= 1000
+6
+1
+4
+pago
+6
+compra
+4
+1
+27
+'El total a pagar es ',pago
+13
+6
+2
+3
+des
+13
+compra * 0.20
+4
+pago
+12
+compra - des
+4
+1
+117
+'Su compra supera los 1000 Bs asi que tiene un descuento de --> ',des,' Bs',' El total a pagar es de -->',pago ,' Bs'
+13
+1

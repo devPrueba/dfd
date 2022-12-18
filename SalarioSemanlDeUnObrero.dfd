@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+horas
+1
+0
+4
+1
+30
+'Ingrese las horas trabajadas'
+5
+1
+5
+horas
+7
+0
+1
+11
+horas <= 40
+7
+0
+1
+9
+horas >40
+13
+6
+3
+6
+extras
+10
+horas - 40
+11
+horasExtras
+11
+extras * 20
+8
+Ssemanal
+23
+(40 * 16)+(horasExtras)
+4
+1
+54
+'El salario semanal del obrero es --> ',Ssemanal,' Bs'
+13
+13
+6
+1
+8
+Ssemanal
+10
+horas * 16
+4
+1
+55
+'EL salario semanal del obrero es --> ',Ssemanal ,' Bs'
+13
+1

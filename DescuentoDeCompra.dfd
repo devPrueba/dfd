@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+monto
+1
+0
+7
+numAzar
+1
+0
+9
+descuento
+1
+0
+4
+1
+31
+'Ingrese el monto de la compra'
+5
+1
+5
+monto
+4
+1
+50
+'Ingrese el numero al azar elegido por el cliente'
+5
+1
+7
+numAzar
+7
+0
+1
+13
+numAzar >= 74
+6
+1
+10
+descuento 
+12
+monto * 0.15
+4
+1
+99
+'Recibes un descuento de 15 % que es --> ' ,descuento , ' Bs', ' sobre el monto de ' , monto ,' Bs'
+13
+6
+1
+9
+descuento
+12
+monto * 0.20
+4
+1
+99
+'Recibes un descuento de 20 % que es --> ' ,descuento , ' Bs', ' sobre el monto de ' , monto ,' Bs'
+13
+1

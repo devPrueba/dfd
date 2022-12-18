@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+A
+1
+0
+1
+V
+1
+0
+1
+r
+1
+0
+4
+1
+19
+'Ingrese el radio '
+5
+1
+1
+r
+6
+2
+1
+A
+14
+4*3.1416*(r*r)
+1
+V
+20
+(4/3)*3.1416*(r*r*r)
+4
+1
+82
+'El area de la circunferencia es-->',A,' El volumen de la circunferencia es -->',V
+1

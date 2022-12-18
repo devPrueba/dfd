@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+n1
+1
+0
+2
+n2
+1
+0
+2
+n3
+1
+0
+4
+1
+20
+'Ingrese 3 numeros '
+5
+1
+5
+a,b,c
+6
+2
+4
+prom
+5
+a*b*c
+2
+mg
+10
+sqrt(prom)
+4
+1
+28
+'La media aritmetica es ',mg
+1

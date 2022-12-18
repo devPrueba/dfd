@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+c
+1
+0
+1
+f
+1
+0
+4
+1
+27
+'ingresar grados celsius: '
+5
+1
+1
+c
+6
+1
+1
+f
+10
+(9/5)*c+32
+4
+1
+42
+'Los Grados c ',c,' en fahrenheit es:  ',f
+1
