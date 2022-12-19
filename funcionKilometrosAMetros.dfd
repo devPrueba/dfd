@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+36
+'Ingrese la cantidad de kilometros '
+5
+1
+1
+k
+12
+1
+9
+ExpMetros
+1
+1
+k
+1
+2
+1
+9
+ExpMetros
+1
+1
+k
+0
+6
+1
+1
+m
+6
+k*1000
+4
+1
+39
+k,' kilometros equivale a ',m,' metros'
+3
